@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/week03/mlruns/0/72780620894d4f4bb11d4bf6268d5c08/artifacts
+end_time: 1749481016097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72780620894d4f4bb11d4bf6268d5c08
+run_name: intelligent-fly-329
+run_uuid: 72780620894d4f4bb11d4bf6268d5c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749481005614
+status: 4
+tags: []
+user_id: codespace

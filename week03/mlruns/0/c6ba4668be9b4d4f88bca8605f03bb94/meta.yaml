@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/week03/mlruns/0/c6ba4668be9b4d4f88bca8605f03bb94/artifacts
+end_time: 1749481275133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6ba4668be9b4d4f88bca8605f03bb94
+run_name: lyrical-mule-494
+run_uuid: c6ba4668be9b4d4f88bca8605f03bb94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749481272324
+status: 3
+tags: []
+user_id: codespace

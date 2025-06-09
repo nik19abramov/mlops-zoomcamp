@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/week03/mlruns/0/9c526a3c96fd47a49093bf9b9f78d188/artifacts
+end_time: 1749481647236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c526a3c96fd47a49093bf9b9f78d188
+run_name: bustling-ox-921
+run_uuid: 9c526a3c96fd47a49093bf9b9f78d188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749481515117
+status: 3
+tags: []
+user_id: codespace
